@@ -11,16 +11,16 @@
             - Grow randomly
 
 # Overview
-[overview](https://github.com/justinfchin/Ecosystem/blob/master/overview.gif?raw)
+![overview](https://github.com/justinfchin/Ecosystem/blob/master/overview.gif?raw)
 
 # How to Run
-- git clone
-- javac PlanetSimulation.java
-- java PlanetSimulation 
+1. git clone
+2. javac PlanetSimulation.java
+3. java PlanetSimulation 
 
 # Notes
 - This was created before we knew what git was. 
 
 # Members
-- Justin F. Chin
-- Emmanuel Simkhayev
+- [Justin F. Chin](https://github.com/justinfchin)
+- [Emmanuil Simkhayev](https://github.com/edrias)
